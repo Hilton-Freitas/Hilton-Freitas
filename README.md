@@ -5,7 +5,7 @@
 Me chamo Hilton Freitas, sou natural de Minas Gerais. Concluí o ensino médio no COTEMIG, com o curso técnico em informática. Sou formado em Pedagogia pela UEMG - Universidade do Estado de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Ao longo da minha trajetória, sempre conciliei educação e tecnologia.
 
 <p align="left">
-<a href="www.linkedin.com/in/hilton-freitas-254023149">
+<a href="https://www.linkedin.com/in/hilton-freitas-254023149" target="_blank">
     <img 
         alt="LinkedIn" 
         title="Meu LinkedIn" 
