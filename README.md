@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hilton Freitas
 
-<!--
-**Hilton-Freitas/Hilton-Freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Pós-graduando em Análise e Desenvolvimento de Sistemas`**
 
-Here are some ideas to get you started:
+Me chamo Hilton Freitas, sou natural de Minas Gerais. Concluí o ensino médio no COTEMIG, com o curso técnico em informática. Sou formado em Pedagogia pela UEMG - Universidade do Estado de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Ao longo da minha trajetória, sempre conciliei educação e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="www.linkedin.com/in/hilton-freitas-254023149">
+    <img 
+        alt="LinkedIn" 
+        title="Meu LinkedIn" 
+        src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+    />
+</a>
+    </a>
+    <a href="https://github.com/Hilton-Freitas?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Hilton-Freitas?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Hilton-Freitas?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Hilton-Freitas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+
